@@ -1,0 +1,11 @@
+/*  src/Title.css  */
+.Title {
+  text-align: center;
+  justify-content: center;
+  background-color: #282c34;
+  color: #fff;
+}
+
+.Title a {
+  color: #fff;
+}

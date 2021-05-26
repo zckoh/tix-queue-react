@@ -1,0 +1,29 @@
+.modal-dark .modal-content {
+  color: #cfdce9;
+  background-color: #22272e;
+}
+
+.modal-form-input .form-control {
+  color: #cfdce9;
+  background-color: #1f242b;
+  border: 1px solid #373e47;
+}
+
+.modal-header {
+  border-bottom: 0 none;
+}
+
+.modal-footer {
+  border-top: 0 none;
+}
+
+.close {
+  color: white;
+}
+.close:hover {
+  color: white;
+}
+
+.delete-modal-backdrop {
+  z-index:1050;
+}
